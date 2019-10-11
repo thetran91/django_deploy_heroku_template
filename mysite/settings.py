@@ -25,7 +25,7 @@ SECRET_KEY = 'yyz&6hr=4ezjw^t8!5eq4g4bjs2@8td7h$d8ii)dx78iw+4z7!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://thetrandemoapp.herokuapp.com/]
 
 
 # Application definition
